@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "itcast": "index.js"
+    "suyf": "index.js"
   },
   "dependencies": {
     "commander": "^11.1.0",
